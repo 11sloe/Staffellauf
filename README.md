@@ -3,5 +3,5 @@
 11. Klasse
 
 ## Themen
-Kompositum-Muster
-Aufgabe aus dem Buch
+* Kompositum-Muster
+* Aufgabe aus dem Buch
